@@ -22,4 +22,6 @@ vue init webpack 项目名
 npm install vue-router --save
 11、安装vuex
 npm install vuex
+12、安装axious
+npm insatll axios --save
 
